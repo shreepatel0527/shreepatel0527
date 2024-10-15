@@ -6,9 +6,6 @@ Hello! I'm Shree Patel (she/her), an aspiring scientific software professional w
 ## Professional Background
 With a strong foundation in both scientific research and engineering, I have developed a diverse skill set that spans computational chemistry, machine learning, and software development. My experience includes designing and optimizing laboratory automation equipment, customizing imaging instruments, small molecule therapeutics, analytical LC-MS methods, and statistical theories. In addition to my technical roles, I have been actively involved in research ranging from molecular dynamics simulations and electrostatic potential analysis to designing synthetic pathways for novel nanoclusters.
 
-## Professional Goals
-All of my experiences are united by a passion for harnessing computational tools and innovative technologies to address complex scientific challenges. My current goal is to leverage my expertise in molecular science and software engineering to contribute to advancements in drug discovery and materials science. By combining my technical skills with a creative approach, I aim to drive impactful innovations and contribute to the scientific community’s progress.
-
 ## Personal Interests
 I enjoy running, skiing, baking, and exploring new destinations. I aim to maintain a well-rounded and balanced life, which I find enhances my creativity and problem-solving abilities in both personal and professional contexts.
 
